@@ -1,6 +1,6 @@
 # cloneCoding
 
-### category
+### Category
 - AndroidApp
 
 ### 주제
